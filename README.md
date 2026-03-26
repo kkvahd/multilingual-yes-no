@@ -27,8 +27,7 @@ The project reproduced results across multiple languages including Hindi, Korean
 – training, evaluation, and experiments 
 - Project_Report.pdf 
 – project report and reproduced results
-- implementation.py
-- codebase
+- implementation.py - codebase
 
 ## Notes 
 This project was completed as part of graduate-level NLP coursework and focuses on multilingual indirect answer interpretation.
